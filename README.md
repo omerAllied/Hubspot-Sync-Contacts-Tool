@@ -1,2 +1,2 @@
 # Hubspot-Migrator
-Visit [our website](https://alliedc.com) for more info.
+Visit [our website](http://www.alliedc.com/) for more info.
