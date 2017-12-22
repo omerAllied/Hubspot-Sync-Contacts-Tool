@@ -1,0 +1,11 @@
+C:\Users\alliedc\Desktop\HubspotMigrator\HubspotMigrator\HubspotMigrator\bin\Debug\HubspotMigrator.exe.config
+C:\Users\alliedc\Desktop\HubspotMigrator\HubspotMigrator\HubspotMigrator\bin\Debug\HubspotMigrator.exe
+C:\Users\alliedc\Desktop\HubspotMigrator\HubspotMigrator\HubspotMigrator\bin\Debug\HubspotMigrator.pdb
+C:\Users\alliedc\Desktop\HubspotMigrator\HubspotMigrator\HubspotMigrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alliedc\Desktop\HubspotMigrator\HubspotMigrator\HubspotMigrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alliedc\Desktop\HubspotMigrator\HubspotMigrator\HubspotMigrator\obj\Debug\HubspotMigrator.csprojResolveAssemblyReference.cache
+C:\Users\alliedc\Desktop\HubspotMigrator\HubspotMigrator\HubspotMigrator\obj\Debug\HubspotMigrator.Properties.Resources.resources
+C:\Users\alliedc\Desktop\HubspotMigrator\HubspotMigrator\HubspotMigrator\obj\Debug\HubspotMigrator.csproj.GenerateResource.Cache
+C:\Users\alliedc\Desktop\HubspotMigrator\HubspotMigrator\HubspotMigrator\obj\Debug\HubspotMigrator.exe
+C:\Users\alliedc\Desktop\HubspotMigrator\HubspotMigrator\HubspotMigrator\obj\Debug\HubspotMigrator.pdb
+C:\Users\alliedc\Desktop\HubspotMigrator\HubspotMigrator\HubspotMigrator\obj\Debug\HubspotMigrator.Form1.resources
