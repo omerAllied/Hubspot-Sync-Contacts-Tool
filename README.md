@@ -1,4 +1,4 @@
-# Hubspot-Migrator
+# Hubspot-Migration-Tool
 
 Data migration is an essential aspect of any organization's data management capabilities. While moving from one CRM system to another, it is important that data should flow without any problems.
 
