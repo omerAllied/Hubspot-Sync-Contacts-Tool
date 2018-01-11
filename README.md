@@ -1,13 +1,15 @@
-# Hubspot-Migration-Tool
+# Hubspot-Sync-Contacts-Tool
 
-Data migration is an essential aspect of any organization's data management capabilities. While moving from one CRM system to another, it is important that data should flow without any problems.
+Updating your CRM can be a hassle. 
+
+While moving from one Hubspot account to another, it is important that data flows without any problems.
 
 And this tool is the perfect solution.
 
-It enables smooth data migration of contacts to another hubspot account (assuming both in source & destination contacts are the same).
+It enables smooth integration of any engagements (emails, notes etc.) made with contacts with another Hubspot account (assuming both source & destination contacts already there).
 
 Easy, flexible to use. 
 
-Migrate tons of contacts with a single click.
+Migrate tons of contact engagements with a single click.
 
 Feel free to visit [our website](http://www.alliedc.com/) for more info.
