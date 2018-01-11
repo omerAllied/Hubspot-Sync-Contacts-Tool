@@ -12,4 +12,4 @@ Easy, flexible to use.
 
 Migrate tons of contact engagements with a single click.
 
-Feel free to visit [our website](http://www.alliedc.com/) for more info.
+Feel free to visit [our website](http://www.alliedc.com/hubspot-crm-integration-sync-contacts-tool//) for more details on how the tool was developed.
